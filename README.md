@@ -1,2 +1,2 @@
 # SimpleMockServer
-A simple mock server based purely on configuration &amp; son files
+A simple mock server based purely on configuration &amp; JSON files
