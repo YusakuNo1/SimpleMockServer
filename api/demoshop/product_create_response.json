@@ -1,0 +1,11 @@
+{
+    "code": 200,
+    "errorMessage": null,
+    "resposnse":
+    {
+        "id": 2001,
+        "name": "product name",
+        "description": "product description",
+        "details": "product details"
+    }
+}

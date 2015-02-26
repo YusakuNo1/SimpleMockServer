@@ -1,0 +1,11 @@
+{
+    "code": 200,
+    "errorMessage": null,
+    "resposnse":
+    {
+        "id": 8001,
+        "name": "gallery 01",
+        "description": "gallery 01 description",
+        "details": "gallery 01 details"
+    }
+}

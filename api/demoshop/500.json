@@ -1,0 +1,5 @@
+{
+    "code": 500,
+    "errorMessage": "Internal Server Error (Please check your config.ini)",
+    "resposnse": null
+}
