@@ -19,3 +19,4 @@ It's an easy config mock server mainly for mobile/frontend developers as they mi
 1. Sample iOS clients with both Objective C and Swift
 2. Sample Android client
 3. Authentication header checking with fail response of HTTP status 401
+
