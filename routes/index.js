@@ -48,6 +48,8 @@ function setupEndpoint(key, method) {
         console.log("Enabled endpoint: " + kEndPoint);
 
         router[method](kEndPoint, function(req, res, next) {
+            customEndPoint.configAPIResponseHeaders(res);
+            
             var endpointValue = apiConfig[key][endpointKey].trim();
 
             if (endpointValue[0] == '[') {
